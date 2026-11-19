@@ -1,0 +1,6 @@
+{
+  "name": "Aether",
+  "description": "Multi-source meteorological intelligence app combining a Google DeepMind WeatherNext 3 provider adapter, ECMWF/GFS/ICON multi-model ensemble forecasting, RainViewer radar, official IMD & NWS severe alerts, air quality analytics, forecast verification, and a Gemini AI weather assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
